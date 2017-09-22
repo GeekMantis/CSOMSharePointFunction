@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "AzureWebJobsSecretStorageType": "disabled",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=azurefunctionsdb1ab245;AccountKey=dszDERg8Sq3lhOjYUT657IoI0h3ZermCfeCKjJOpjqxyOhKA1cuxhsHef5+8MGWeEb8eqSlBKsfW9VdyXO9AWA==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=azurefunctionsdb1ab245;AccountKey=dszDERg8Sq3lhOjYUT657IoI0h3ZermCfeCKjJOpjqxyOhKA1cuxhsHef5+8MGWeEb8eqSlBKsfW9VdyXO9AWA==",
+    "WEBSITE_CONTENTSHARE": "csomsharepointfunction96eb",
+    "WEBSITE_SITE_NAME": "CSOMSharePointFunction",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurefunctionsdb1ab245;AccountKey=dszDERg8Sq3lhOjYUT657IoI0h3ZermCfeCKjJOpjqxyOhKA1cuxhsHef5+8MGWeEb8eqSlBKsfW9VdyXO9AWA=="
+  }
+}
