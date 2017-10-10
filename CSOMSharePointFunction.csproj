@@ -17,7 +17,31 @@
     <None Update="HttpTriggerCSharp1/function.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="HttpTriggerCSharp1/run.csx">
+    <None Update="SPOAddRemoveGroup/bin/Microsoft.SharePoint.Client.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SPOAddRemoveGroup/bin/Microsoft.SharePoint.Client.Runtime.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SPOAddRemoveGroup/function.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SPOAddRemoveGroup/run.csx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SPOCreateSiteCollection/bin/Microsoft.Online.SharePoint.Client.Tenant.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SPOCreateSiteCollection/bin/Microsoft.SharePoint.Client.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SPOCreateSiteCollection/bin/Microsoft.SharePoint.Client.Runtime.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SPOCreateSiteCollection/function.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SPOCreateSiteCollection/run.csx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="SPOCreateSubsite/bin/Microsoft.SharePoint.Client.dll">
